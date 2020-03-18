@@ -1,0 +1,26 @@
+{
+  "name": "vs_code_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanic-coding-god/softwareEngineer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceanic-coding-god/softwareEngineer/issues"
+  },
+  "homepage": "https://github.com/oceanic-coding-god/softwareEngineer#readme"
+}
